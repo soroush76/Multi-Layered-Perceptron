@@ -7,4 +7,4 @@ Multi layered neural network on a breast cancer dataset
 - scipy
 - matplotlib
 
-##### Notice: Input dataset dimensions in this project is `(m, n)`, which `m` is number of samples and `n` in the number of features. 
+##### Notice: Input training set dimensions in this project is `(n, m)`, which `m` is number of samples and `n` in the number of features. But the input training set dimensions is `(m, 1)`.

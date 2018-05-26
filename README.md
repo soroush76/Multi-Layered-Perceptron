@@ -1,5 +1,5 @@
 # Multi-Layered-Perceptron
-2 and Multi layered neural network on a breast cancer dataset
+Multi layered neural network on a breast cancer dataset
 
 ## Included packages
 - numpy
